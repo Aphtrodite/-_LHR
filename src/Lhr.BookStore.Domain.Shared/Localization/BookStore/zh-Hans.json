@@ -1,0 +1,32 @@
+{
+    "culture": "zh-Hans",
+  "texts": {
+    "Menu:Home": "首页",
+    "Menu:Function": "功能模块",
+    "Welcome": "欢迎",
+    "LongWelcomeMessage": "欢迎来到图书商城",
+    "Menu:BookStore": "图书商城",
+    "Menu:Books": "图书管理",
+    "Actions": "开始",
+    "Close": "关闭",
+    "Delete": "删除",
+    "Edit": "修改",
+    "PublishDate": "出版日期",
+    "NewBook": "添加新书",
+    "Name": "书名",
+    "Type": "类型",
+    "Price": "价格",
+    "CreationTime": "创建时间",
+    "AreYouSure": "您确定吗?",
+    "AreYouSureToDelete": "您确定删除这项内容吗?",
+    "Enum:BookType:0": "未知",
+    "Enum:BookType:1": "冒险类",
+    "Enum:BookType:2": "传记类",
+    "Enum:BookType:3": "反面类",
+    "Enum:BookType:4": "计算机类",
+    "Enum:BookType:5": "恐怖类",
+    "Enum:BookType:6": "科学类",
+    "Enum:BookType:7": "科幻小说类",
+    "Enum:BookType:8": "诗集类"
+  }
+  }
